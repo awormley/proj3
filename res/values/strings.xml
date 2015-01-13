@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Welcome to Leuocyte</string>
+    <string name="app_name">leuocyte</string>
+    <string-array name="levels">
+        <item >Level 1</item>
+        <item >Level 2</item>
+        <item >Level 3</item>
+    </string-array>
+        <string name="instruct">&quot;Tilt to move. Tap to fire.  &quot;</string>
+        <string name="begin">Fight!</string><string name="mode_ready">Approaching Infection\n Tap to begin.</string><string name="mode_pause">Paused\nTouch To Resume</string><string name="mode_lose">Game Over\nTouch To Play</string><string name="mode_win_prefix">Success!\n</string><string name="mode_win_suffix">in a row\nTouch to Play</string><string name="mars_layout_text_text"></string>
+
+</resources>
